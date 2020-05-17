@@ -1,0 +1,96 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/Users/jianghongyi/myProject/redis/src/adlist.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/adlist.c.o"
+  "/Users/jianghongyi/myProject/redis/src/ae.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/ae.c.o"
+  "/Users/jianghongyi/myProject/redis/src/ae_kqueue.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/ae_kqueue.c.o"
+  "/Users/jianghongyi/myProject/redis/src/anet.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/anet.c.o"
+  "/Users/jianghongyi/myProject/redis/src/aof.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/aof.c.o"
+  "/Users/jianghongyi/myProject/redis/src/bio.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/bio.c.o"
+  "/Users/jianghongyi/myProject/redis/src/bitops.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/bitops.c.o"
+  "/Users/jianghongyi/myProject/redis/src/blocked.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/blocked.c.o"
+  "/Users/jianghongyi/myProject/redis/src/childinfo.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/childinfo.c.o"
+  "/Users/jianghongyi/myProject/redis/src/cluster.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/cluster.c.o"
+  "/Users/jianghongyi/myProject/redis/src/config.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/config.c.o"
+  "/Users/jianghongyi/myProject/redis/src/crc16.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/crc16.c.o"
+  "/Users/jianghongyi/myProject/redis/src/crc64.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/crc64.c.o"
+  "/Users/jianghongyi/myProject/redis/src/db.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/db.c.o"
+  "/Users/jianghongyi/myProject/redis/src/debug.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/debug.c.o"
+  "/Users/jianghongyi/myProject/redis/src/defrag.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/defrag.c.o"
+  "/Users/jianghongyi/myProject/redis/src/dict.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/dict.c.o"
+  "/Users/jianghongyi/myProject/redis/src/endianconv.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/endianconv.c.o"
+  "/Users/jianghongyi/myProject/redis/src/evict.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/evict.c.o"
+  "/Users/jianghongyi/myProject/redis/src/expire.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/expire.c.o"
+  "/Users/jianghongyi/myProject/redis/src/geo.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/geo.c.o"
+  "/Users/jianghongyi/myProject/redis/src/geohash.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/geohash.c.o"
+  "/Users/jianghongyi/myProject/redis/src/geohash_helper.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/geohash_helper.c.o"
+  "/Users/jianghongyi/myProject/redis/src/hyperloglog.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/hyperloglog.c.o"
+  "/Users/jianghongyi/myProject/redis/src/intset.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/intset.c.o"
+  "/Users/jianghongyi/myProject/redis/src/latency.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/latency.c.o"
+  "/Users/jianghongyi/myProject/redis/src/lazyfree.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/lazyfree.c.o"
+  "/Users/jianghongyi/myProject/redis/src/listpack.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/listpack.c.o"
+  "/Users/jianghongyi/myProject/redis/src/localtime.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/localtime.c.o"
+  "/Users/jianghongyi/myProject/redis/src/lolwut.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/lolwut.c.o"
+  "/Users/jianghongyi/myProject/redis/src/lolwut5.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/lolwut5.c.o"
+  "/Users/jianghongyi/myProject/redis/src/lzf_c.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/lzf_c.c.o"
+  "/Users/jianghongyi/myProject/redis/src/lzf_d.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/lzf_d.c.o"
+  "/Users/jianghongyi/myProject/redis/src/memtest.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/memtest.c.o"
+  "/Users/jianghongyi/myProject/redis/src/module.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/module.c.o"
+  "/Users/jianghongyi/myProject/redis/src/multi.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/multi.c.o"
+  "/Users/jianghongyi/myProject/redis/src/networking.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/networking.c.o"
+  "/Users/jianghongyi/myProject/redis/src/notify.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/notify.c.o"
+  "/Users/jianghongyi/myProject/redis/src/object.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/object.c.o"
+  "/Users/jianghongyi/myProject/redis/src/pqsort.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/pqsort.c.o"
+  "/Users/jianghongyi/myProject/redis/src/pubsub.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/pubsub.c.o"
+  "/Users/jianghongyi/myProject/redis/src/quicklist.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/quicklist.c.o"
+  "/Users/jianghongyi/myProject/redis/src/rand.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/rand.c.o"
+  "/Users/jianghongyi/myProject/redis/src/rax.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/rax.c.o"
+  "/Users/jianghongyi/myProject/redis/src/rdb.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/rdb.c.o"
+  "/Users/jianghongyi/myProject/redis/src/redis-check-aof.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/redis-check-aof.c.o"
+  "/Users/jianghongyi/myProject/redis/src/redis-check-rdb.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/redis-check-rdb.c.o"
+  "/Users/jianghongyi/myProject/redis/src/release.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/release.c.o"
+  "/Users/jianghongyi/myProject/redis/src/replication.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/replication.c.o"
+  "/Users/jianghongyi/myProject/redis/src/rio.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/rio.c.o"
+  "/Users/jianghongyi/myProject/redis/src/scripting.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/scripting.c.o"
+  "/Users/jianghongyi/myProject/redis/src/sds.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/sds.c.o"
+  "/Users/jianghongyi/myProject/redis/src/sentinel.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/sentinel.c.o"
+  "/Users/jianghongyi/myProject/redis/src/server.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/server.c.o"
+  "/Users/jianghongyi/myProject/redis/src/setproctitle.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/setproctitle.c.o"
+  "/Users/jianghongyi/myProject/redis/src/sha1.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/sha1.c.o"
+  "/Users/jianghongyi/myProject/redis/src/siphash.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/siphash.c.o"
+  "/Users/jianghongyi/myProject/redis/src/slowlog.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/slowlog.c.o"
+  "/Users/jianghongyi/myProject/redis/src/sort.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/sort.c.o"
+  "/Users/jianghongyi/myProject/redis/src/sparkline.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/sparkline.c.o"
+  "/Users/jianghongyi/myProject/redis/src/syncio.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/syncio.c.o"
+  "/Users/jianghongyi/myProject/redis/src/t_hash.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/t_hash.c.o"
+  "/Users/jianghongyi/myProject/redis/src/t_list.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/t_list.c.o"
+  "/Users/jianghongyi/myProject/redis/src/t_set.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/t_set.c.o"
+  "/Users/jianghongyi/myProject/redis/src/t_stream.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/t_stream.c.o"
+  "/Users/jianghongyi/myProject/redis/src/t_string.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/t_string.c.o"
+  "/Users/jianghongyi/myProject/redis/src/t_zset.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/t_zset.c.o"
+  "/Users/jianghongyi/myProject/redis/src/util.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/util.c.o"
+  "/Users/jianghongyi/myProject/redis/src/ziplist.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/ziplist.c.o"
+  "/Users/jianghongyi/myProject/redis/src/zipmap.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/zipmap.c.o"
+  "/Users/jianghongyi/myProject/redis/src/zmalloc.c" "/Users/jianghongyi/myProject/redis/cmake-build-debug/CMakeFiles/redis-server.dir/src/zmalloc.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "AppleClang")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../deps/linenoise"
+  "../deps/hiredis"
+  "../deps/lua/src"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/Users/jianghongyi/myProject/redis/cmake-build-debug/deps/lua/CMakeFiles/lua.dir/DependInfo.cmake"
+  "/Users/jianghongyi/myProject/redis/cmake-build-debug/deps/linenoise/CMakeFiles/linenoise.dir/DependInfo.cmake"
+  "/Users/jianghongyi/myProject/redis/cmake-build-debug/deps/hiredis/CMakeFiles/hiredis.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
